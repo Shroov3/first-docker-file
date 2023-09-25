@@ -15,3 +15,5 @@
 
 `sudo usermod -aG docker msk` ---> msk username
 
+`logout` 
+
