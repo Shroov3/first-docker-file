@@ -11,7 +11,7 @@
 
 `sudo systemctl status docker` ---> active
 
-`docker run hello-world' ---> should get error
+`docker run hello-world` ---> should get error
 
-'sudo usermod -aG docker msk' ---> msk username
+`sudo usermod -aG docker msk` ---> msk username
 
